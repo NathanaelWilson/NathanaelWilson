@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Wilson👋</h1>
 
 <p align="center">
 I bridge <b>Design</b>, <b>Technology</b>, and <b>Storytelling</b> — a Computer Science student at BINUS University, driven by curiosity and a constant urge to keep learning, especially in tech.
