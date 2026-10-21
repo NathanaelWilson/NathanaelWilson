@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Wilson👋</h1>
 
 <p align="center">
-I bridge <b>Design</b>, <b>Technology</b>, and <b>Storytelling</b> — a Computer Science student at BINUS University, driven by curiosity and a constant urge to keep learning, especially in tech.
+I bridge <b>Technology</b>, <b>Design</b>, and <b>Storytelling</b> — a Computer Science student at BINUS University, driven by curiosity and a constant urge to keep learning, especially in tech.
 </p>
 
 ---
 
-### 🎨 Design
-I care about how things *feel*, not just how they work. From UI to user flows, I aim to build products that are intuitive and human-centered — because good design is invisible, but its absence never is.
-
 ### 💻 Tech
 Currently deep in iOS development at **Apple Developer Academy @ BINUS, Tangerang**, building end-to-end products — from SwiftUI interfaces to backend logic, computer vision, and IoT integrations. I enjoy learning by building, and I've shipped several iOS applications through hands-on, project-based learning.
+
+### 🎨 Design
+I care about how things *feel*, not just how they work. From UI to user flows, I aim to build products that are intuitive and human-centered — because good design is invisible, but its absence never is.
 
 ### 📖 Storytelling
 Every product solves a problem, and every problem has a story. I like translating technical work into narratives people actually understand — whether that's a pitch, a README, or a demo. Technology means little if no one understands why it matters.
